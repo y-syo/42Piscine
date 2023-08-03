@@ -1,0 +1,9 @@
+*.swp
+.*.swp
+/bsq
+*.o
+*.a
+*.nfs
+*.perl
+*.map
+maps/
